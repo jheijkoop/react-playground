@@ -1,0 +1,10 @@
+{
+  "cmpilerOptions": {
+    "module": "commonjs",
+    "sourceMap": true
+  },
+  "files": [
+    "app.tsx",
+    "typings/tsd.d.ts"
+  ]
+}
